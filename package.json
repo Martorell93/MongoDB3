@@ -1,0 +1,23 @@
+{
+  "name": "MongoDB3",
+  "version": "1.0.0",
+  "description": "día 3 del módulo 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martorell93/MongoDB3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martorell93/MongoDB3/issues"
+  },
+  "homepage": "https://github.com/Martorell93/MongoDB3#readme",
+  "dependencies": {
+    "mongoose": "^5.13.7"
+  }
+}
